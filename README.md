@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **chadi.erjeb@eniso.u-sousse.tn**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
