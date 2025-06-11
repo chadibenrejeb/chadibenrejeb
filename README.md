@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chadibenrejeb" alt="chadibenrejeb" /></a> </p>
 
-- 📫 How to reach me **chadi.erjeb@eniso.u-sousse.tn**
+- 📫 How to reach me **rejebchadi@gmail.com**
 
 <p align="left">
 </p>
