@@ -34,8 +34,6 @@
 - [LinkedIn](https://linkedin.com/in/chadirejeb)  
 - [GitHub](https://github.com/chadibenrejeb)  
 - [Codeforces](https://codeforces.com/profile/chadi_17)  
-- 📧 **rejebchadi@gmail.com**
-
 ---
 
 ⭐️ From [Chadi Rejeb](https://github.com/chadibenrejeb)
